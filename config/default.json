@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://katja123:katja123@devconnector.6zyga.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "329f777936812faaee10",
+  "githubSecret": "bee3a0d0c0f718e256fd48597113c92e4283943c"
+}
